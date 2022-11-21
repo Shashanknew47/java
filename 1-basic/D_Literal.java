@@ -14,7 +14,7 @@
 //      => bool : true/false
 //
 
-public class Literal {
+public class D_Literal {
     public static void main(String args[]) {
 
         byte b1 = 10;

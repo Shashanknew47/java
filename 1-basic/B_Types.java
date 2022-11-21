@@ -6,7 +6,7 @@ char with Character; bool with Boolean   */
 /*  Imp. point if you use single character and text is wrap in single quotes  ex. 'A' it will be char.
    if it is in double quotes like this String s = "Apple". this means it is a string literal.  */
 
-public class Types {
+public class B_Types {
 
     public static void main(String args[]) {
         System.out.println("Byte min" + Byte.MIN_VALUE );
@@ -16,7 +16,7 @@ public class Types {
         int i = 5;
         System.out.println(Integer.toBinaryString(i));
 
-        // Negative integer gets converted into binary in 2's complement. where first every bit will be reversed and then 1 will be added. 
+        // Negative integer gets converted into binary in 2's complement. where first every bit will be reversed and then 1 will be added.
         int j = -5;
         System.out.println(Integer.toBinaryString(j));
 

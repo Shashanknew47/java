@@ -1,6 +1,6 @@
 import javax.swing.plaf.synth.SynthLookAndFeel;
 
-public class bitwise {
+public class E_bitwise {
 
     public static void main (String []args) {
         int x,y,z;
