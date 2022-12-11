@@ -1,7 +1,7 @@
 import java.lang.*;
 
 
-public class LearnStr {
+public class A_LearnStr {
 
     public static void main(String[] args) {
 
@@ -14,13 +14,12 @@ public class LearnStr {
     String str4 = new String(c,1,2);
 
 
-
     System.out.println(str1);
     System.out.println(str2);
     System.out.println(str3);
 
 
-    // In java == operator is like "is" operator in Python. It check if they same object or not intead of equality.
+    // In java sting == operator is like "is" operator in Python. It check if they same object or not instead of equality.
     System.out.println(str1 == str2);
     System.out.println(str1 == str3);
 

@@ -8,18 +8,16 @@
 !-- indexOf(string,index)   (will give the index number of a specific character from left, index is from where the
 !--                                            search should begin. if charater not found then will return -1)
 
-!-- equals ( is just like "==" operator in Python)
+!-- equals ( is just like "==" operator in Python String)
 !-- equalsIngnoreCase   (will check equality irrespective of cases)
 
 !-- contians ("in" in Python)
 !-- concat
 
-
-
  */
 
 
-class String_methods {
+class C_String_methods {
         public static void main(String[] args) {
             String str = new String("        java_course    ");
             str = str.toUpperCase();
@@ -50,14 +48,12 @@ class String_methods {
             String new_str = "Programmer@gmail.com";
             int start = new_str.indexOf("@");
             int end = new_str.indexOf(".");
-            
+
             String domain = new_str.substring(start + 1, end);
             System.out.println("domain: " + domain);
-            
-            
+
             String username = new_str.substring(0,start);
             System.out.println("username:" + username);
-            
 
         }
 }

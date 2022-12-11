@@ -1,0 +1,93 @@
+2022.12.11 23:06:02 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/shashankjain/Desktop/Practice/java/.metals/lsp.trace.json or /Users/shashankjain/Library/Caches/org.scalameta.metals/lsp.trace.json
+2022.12.11 23:06:03 INFO  logging to file /Users/shashankjain/Desktop/Practice/java/.metals/metals.log
+2022.12.11 23:06:03 INFO  Started: Metals version 0.11.9 in workspace '/Users/shashankjain/Desktop/Practice/java' for client Visual Studio Code 1.74.0.
+2022.12.11 23:06:04 INFO  time: initialize in 1.62s
+2022.12.11 23:06:09 WARN  Build server is not auto-connectable.
+2022.12.11 23:06:09 WARN  no build tool detected in workspace '/Users/shashankjain/Desktop/Practice/java'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2022.12.11 23:06:09 WARN  no build target for: /Users/shashankjain/Desktop/Practice/java/1-basic/A_First.java
+Dec 11, 2022 11:06:09 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: org.eclipse.jdt.core.compiler.InvalidInputException: Binary_Literal_Not_Below_17
+java.util.concurrent.CompletionException: org.eclipse.jdt.core.compiler.InvalidInputException: Binary_Literal_Not_Below_17
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:347)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:708)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2162)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:484)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: org.eclipse.jdt.core.compiler.InvalidInputException: Binary_Literal_Not_Below_17
+	at org.eclipse.jdt.internal.core.util.PublicScanner.scanNumber(PublicScanner.java:3760)
+	at org.eclipse.jdt.internal.core.util.PublicScanner.getNextToken(PublicScanner.java:1854)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.next$1(JavaFoldingRangeExtractor.scala:100)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.gather$1(JavaFoldingRangeExtractor.scala:145)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.extract(JavaFoldingRangeExtractor.scala:155)
+	at scala.meta.internal.parsing.FoldingRangeProvider.$anonfun$getRangedForJava$2(FoldingRangeProvider.scala:54)
+	at scala.Option$WithFilter.map(Option.scala:242)
+	at scala.meta.internal.parsing.FoldingRangeProvider.getRangedForJava(FoldingRangeProvider.scala:49)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$foldingRange$3(MetalsLanguageServer.scala:1760)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	... 3 more
+
+2022.12.11 23:06:11 INFO  time: code lens generation in 1.59s
+2022.12.11 23:11:08 WARN  no build target for: /Users/shashankjain/Desktop/Practice/java/1-basic/B_Types.java
+2022.12.11 23:11:10 INFO  time: code lens generation in 1.01s
+2022.12.11 23:14:12 WARN  no build target for: /Users/shashankjain/Desktop/Practice/java/1-basic/C_ReadKeyboard.java
+2022.12.11 23:14:13 INFO  time: code lens generation in 1.01s
+2022.12.11 23:14:26 WARN  no build target for: /Users/shashankjain/Desktop/Practice/java/1-basic/D_Literal.java
+Dec 11, 2022 11:14:27 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint fallbackResponseError
+SEVERE: Internal error: org.eclipse.jdt.core.compiler.InvalidInputException: Binary_Literal_Not_Below_17
+java.util.concurrent.CompletionException: org.eclipse.jdt.core.compiler.InvalidInputException: Binary_Literal_Not_Below_17
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:332)
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:347)
+	at java.base/java.util.concurrent.CompletableFuture$UniAccept.tryFire(CompletableFuture.java:708)
+	at java.base/java.util.concurrent.CompletableFuture.postComplete(CompletableFuture.java:510)
+	at java.base/java.util.concurrent.CompletableFuture.completeExceptionally(CompletableFuture.java:2162)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1(CancelTokens.scala:40)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$future$1$adapted(CancelTokens.scala:38)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:484)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: org.eclipse.jdt.core.compiler.InvalidInputException: Binary_Literal_Not_Below_17
+	at org.eclipse.jdt.internal.core.util.PublicScanner.scanNumber(PublicScanner.java:3760)
+	at org.eclipse.jdt.internal.core.util.PublicScanner.getNextToken(PublicScanner.java:1854)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.next$1(JavaFoldingRangeExtractor.scala:100)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.gather$1(JavaFoldingRangeExtractor.scala:145)
+	at scala.meta.internal.parsing.JavaFoldingRangeExtractor.extract(JavaFoldingRangeExtractor.scala:155)
+	at scala.meta.internal.parsing.FoldingRangeProvider.$anonfun$getRangedForJava$2(FoldingRangeProvider.scala:54)
+	at scala.Option$WithFilter.map(Option.scala:242)
+	at scala.meta.internal.parsing.FoldingRangeProvider.getRangedForJava(FoldingRangeProvider.scala:49)
+	at scala.meta.internal.metals.MetalsLanguageServer.$anonfun$foldingRange$3(MetalsLanguageServer.scala:1760)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	... 3 more
+
+2022.12.11 23:17:35 WARN  no build target for: /Users/shashankjain/Desktop/Practice/java/1-basic/E_bitwise.java
+2022.12.11 23:17:36 INFO  time: code lens generation in 1.07s
+2022.12.11 23:18:05 WARN  no build target for: /Users/shashankjain/Desktop/Practice/java/1-basic/prac.java
+2022.12.11 23:18:06 INFO  time: code lens generation in 1.02s
+2022.12.11 23:18:20 WARN  no build target for: /Users/shashankjain/Desktop/Practice/java/2-string/A_LearnStr.java
+2022.12.11 23:18:22 INFO  time: code lens generation in 1.05s
+Dec 11, 2022 11:22:12 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2022.12.11 23:25:22 WARN  no build target for: /Users/shashankjain/Desktop/Practice/java/2-string/A_LearnStr.java
+2022.12.11 23:25:23 WARN  no build target for: /Users/shashankjain/Desktop/Practice/java/2-string/A_LearnStr.java
+2022.12.11 23:25:23 WARN  no build target for: /Users/shashankjain/Desktop/Practice/java/2-string/A_LearnStr.java
+2022.12.11 23:25:23 WARN  no build target for: /Users/shashankjain/Desktop/Practice/java/2-string/A_LearnStr.java
+2022.12.11 23:25:23 WARN  no build target for: /Users/shashankjain/Desktop/Practice/java/2-string/A_LearnStr.java
+2022.12.11 23:25:24 WARN  no build target for: /Users/shashankjain/Desktop/Practice/java/2-string/A_LearnStr.java
+2022.12.11 23:25:25 WARN  no build target for: /Users/shashankjain/Desktop/Practice/java/2-string/A_LearnStr.java
+2022.12.11 23:25:26 INFO  time: code lens generation in 1.01s
+2022.12.11 23:25:26 INFO  time: code lens generation in 3.44s
+2022.12.11 23:25:26 INFO  time: code lens generation in 2.18s
+2022.12.11 23:26:04 WARN  no build target for: /Users/shashankjain/Desktop/Practice/java/2-string/B_Java_Formatting.java
+2022.12.11 23:39:21 INFO  time: code lens generation in 1.67s
+2022.12.11 23:57:46 WARN  no build target for: /Users/shashankjain/Desktop/Practice/java/2-string/C_String_methods.java
+2022.12.11 23:57:47 INFO  time: code lens generation in 1.2s
+2022.12.11 23:58:02 WARN  no build target for: /Users/shashankjain/Desktop/Practice/java/2-string/B_Java_Formatting.java
+2022.12.12 00:08:18 INFO  shutting down Metals

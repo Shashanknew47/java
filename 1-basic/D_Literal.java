@@ -3,7 +3,6 @@
 //    => For any decimal values it will be double.
 //
 
-//
 //      => byte :  int
 //      => short : int
 //      => int : int       (By default)
@@ -29,7 +28,8 @@ public class D_Literal {
         System.out.println(b2);
         System.out.println(b3);
         System.out.println(b4);
-        System.out.println(l + f);
+        System.out.println(l);
+        System.out.println(Float.toString(l + f));
 
 
     }
