@@ -1,7 +1,7 @@
 
 // As per number of parameters and type of parameter Java class will know which method needed to called when
 // methods have same names. For similar behavior of functionality we use this.
-public class method_overloading {
+public class B_method_overloading {
 
     static int max (int x, int y) {
 

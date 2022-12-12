@@ -1,6 +1,6 @@
 import java.lang.*;
 
-class First_if {
+class A_if {
     public static void main(String[] args) {
         int a = 50;
 

@@ -1,5 +1,5 @@
 
-public class Variable_arguments {
+public class C_Variable_arguments {
 
     // ... variable arguments are just like *args in Python. Here it converted into consolidated array
 

@@ -1,9 +1,8 @@
-public class While_Loop {
+public class D_While_Loop {
     public static void main(String[] args) {
 
         int x = 4;
         while (x<8) {
-
 
             x++;
             System.out.println(x);

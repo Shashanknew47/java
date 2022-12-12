@@ -1,6 +1,6 @@
 import java.lang.*;
 
-class For_Loop {
+class C_For_Loop {
     public static void main(String[] args) {
 
         {

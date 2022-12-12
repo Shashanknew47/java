@@ -1,6 +1,6 @@
 import javax.swing.text.AbstractDocument.LeafElement;
 
-public class Rotation {
+public class C_Rotation {
 
     public static void main(String[] args) {
         int A[] = {1,2,3,4,5};

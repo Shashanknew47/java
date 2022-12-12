@@ -1,0 +1,133 @@
+2022.12.12 00:49:34 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/shashankjain/Desktop/Practice/java/3-if_loop/.metals/lsp.trace.json or /Users/shashankjain/Library/Caches/org.scalameta.metals/lsp.trace.json[0m
+2022.12.12 00:49:35 INFO  logging to file /Users/shashankjain/Desktop/Practice/java/3-if_loop/.metals/metals.log[0m
+2022.12.12 00:49:35 INFO  Started: Metals version 0.11.9 in workspace '/Users/shashankjain/Desktop/Practice/java/3-if_loop' for client Visual Studio Code 1.74.0.[0m
+2022.12.12 00:49:36 INFO  time: initialize in 1.51s[0m
+2022.12.12 00:49:41 WARN  Build server is not auto-connectable.[0m
+2022.12.12 00:49:41 WARN  no build tool detected in workspace '/Users/shashankjain/Desktop/Practice/java/3-if_loop'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+2022.12.12 00:49:41 WARN  no build target for: /Users/shashankjain/Desktop/Practice/java/3-if_loop/First_if.java[0m
+2022.12.12 00:49:42 INFO  time: code lens generation in 1.33s[0m
+2022.12.12 00:50:20 WARN  no build target for: /Users/shashankjain/Desktop/Practice/java/3-if_loop/First_if.java[0m
+2022.12.12 00:51:01 WARN  no build target for: /Users/shashankjain/Desktop/Practice/java/3-if_loop/Learn_switch.java[0m
+2022.12.12 00:51:03 INFO  time: code lens generation in 1.32s[0m
+2022.12.12 00:51:39 WARN  no build target for: /Users/shashankjain/Desktop/Practice/java/3-if_loop/Second_Learn_switch.java[0m
+2022.12.12 00:51:39 WARN  no build target for: /Users/shashankjain/Desktop/Practice/java/3-if_loop/Second_Learn_switch.java[0m
+2022.12.12 00:51:42 INFO  time: code lens generation in 2.43s[0m
+2022.12.12 00:52:45 WARN  no build target for: /Users/shashankjain/Desktop/Practice/java/3-if_loop/Second_Learn_switch.java[0m
+2022.12.12 00:52:47 WARN  no build target for: /Users/shashankjain/Desktop/Practice/java/3-if_loop/Second_Learn_switch.java[0m
+2022.12.12 00:52:48 INFO  time: code lens generation in 1.11s[0m
+2022.12.12 00:52:50 WARN  no build target for: /Users/shashankjain/Desktop/Practice/java/3-if_loop/Second_Learn_switch.java[0m
+2022.12.12 00:52:50 WARN  no build target for: /Users/shashankjain/Desktop/Practice/java/3-if_loop/Second_Learn_switch.java[0m
+2022.12.12 00:52:51 WARN  no build target for: /Users/shashankjain/Desktop/Practice/java/3-if_loop/Second_Learn_switch.java[0m
+2022.12.12 00:52:51 WARN  no build target for: /Users/shashankjain/Desktop/Practice/java/3-if_loop/Second_Learn_switch.java[0m
+2022.12.12 00:52:52 WARN  no build target for: /Users/shashankjain/Desktop/Practice/java/3-if_loop/Second_Learn_switch.java[0m
+2022.12.12 00:52:53 WARN  no build target for: /Users/shashankjain/Desktop/Practice/java/3-if_loop/Second_Learn_switch.java[0m
+2022.12.12 00:52:54 WARN  no build target for: /Users/shashankjain/Desktop/Practice/java/3-if_loop/Second_Learn_switch.java[0m
+2022.12.12 00:52:54 INFO  time: code lens generation in 3.05s[0m
+2022.12.12 00:52:55 WARN  no build target for: /Users/shashankjain/Desktop/Practice/java/3-if_loop/Second_Learn_switch.java[0m
+2022.12.12 00:52:55 WARN  no build target for: /Users/shashankjain/Desktop/Practice/java/3-if_loop/Second_Learn_switch.java[0m
+2022.12.12 00:52:55 WARN  no build target for: /Users/shashankjain/Desktop/Practice/java/3-if_loop/Second_Learn_switch.java[0m
+2022.12.12 00:52:56 WARN  no build target for: /Users/shashankjain/Desktop/Practice/java/3-if_loop/Second_Learn_switch.java[0m
+2022.12.12 00:52:57 INFO  time: code lens generation in 6.12s[0m
+2022.12.12 00:52:57 WARN  no build target for: /Users/shashankjain/Desktop/Practice/java/3-if_loop/Second_Learn_switch.java[0m
+2022.12.12 00:52:57 WARN  no build target for: /Users/shashankjain/Desktop/Practice/java/3-if_loop/Second_Learn_switch.java[0m
+2022.12.12 00:52:58 WARN  no build target for: /Users/shashankjain/Desktop/Practice/java/3-if_loop/Second_Learn_switch.java[0m
+2022.12.12 00:52:58 WARN  no build target for: /Users/shashankjain/Desktop/Practice/java/3-if_loop/Second_Learn_switch.java[0m
+2022.12.12 00:52:58 WARN  no build target for: /Users/shashankjain/Desktop/Practice/java/3-if_loop/Second_Learn_switch.java[0m
+2022.12.12 00:52:59 WARN  Running javac-semanticdb failed for file:///Users/shashankjain/Desktop/Practice/java/3-if_loop/Second_Learn_switch.java. Output:
+/Users/shashankjain/Desktop/Practice/java/3-if_loop/Second_Learn_switch.java:24: error: ';' expected
+               break
+                    ^
+1 error[0m
+2022.12.12 00:52:59 WARN  no build target for: /Users/shashankjain/Desktop/Practice/java/3-if_loop/Second_Learn_switch.java[0m
+2022.12.12 00:53:00 INFO  time: code lens generation in 1.36s[0m
+2022.12.12 00:53:01 INFO  time: code lens generation in 4.28s[0m
+2022.12.12 00:53:01 INFO  time: code lens generation in 3.36s[0m
+2022.12.12 00:53:01 INFO  time: code lens generation in 7.49s[0m
+2022.12.12 00:53:01 INFO  time: code lens generation in 5.49s[0m
+2022.12.12 00:53:01 INFO  time: code lens generation in 2.07s[0m
+2022.12.12 00:53:01 INFO  time: code lens generation in 6.04s[0m
+2022.12.12 00:53:01 INFO  time: code lens generation in 9.75s[0m
+2022.12.12 00:53:01 INFO  time: code lens generation in 8.8s[0m
+2022.12.12 00:53:01 INFO  time: code lens generation in 6.52s[0m
+2022.12.12 00:54:04 WARN  no build target for: /Users/shashankjain/Desktop/Practice/java/3-if_loop/Second_Learn_switch.java[0m
+2022.12.12 00:54:05 WARN  no build target for: /Users/shashankjain/Desktop/Practice/java/3-if_loop/Second_Learn_switch.java[0m
+2022.12.12 00:54:07 INFO  time: code lens generation in 2.3s[0m
+2022.12.12 00:58:46 WARN  no build target for: /Users/shashankjain/Desktop/Practice/java/3-if_loop/For_Loop.java[0m
+2022.12.12 01:00:36 WARN  no build target for: /Users/shashankjain/Desktop/Practice/java/3-if_loop/Third_For_Loop.java[0m
+2022.12.12 01:00:36 WARN  no build target for: /Users/shashankjain/Desktop/Practice/java/3-if_loop/Third_For_Loop.java[0m
+2022.12.12 01:00:39 INFO  time: code lens generation in 2.25s[0m
+2022.12.12 01:02:47 WARN  no build target for: /Users/shashankjain/Desktop/Practice/java/3-if_loop/While_Loop.java[0m
+2022.12.12 01:02:48 INFO  time: code lens generation in 1.01s[0m
+2022.12.12 01:03:33 WARN  no build target for: /Users/shashankjain/Desktop/Practice/java/3-if_loop/Fourth_While_Loop.java[0m
+2022.12.12 01:03:33 WARN  no build target for: /Users/shashankjain/Desktop/Practice/java/3-if_loop/Fourth_While_Loop.java[0m
+2022.12.12 01:03:35 INFO  time: code lens generation in 2.16s[0m
+2022.12.12 01:09:46 WARN  no build target for: /Users/shashankjain/Desktop/Practice/java/3-if_loop/Fourth_While_Loop.java[0m
+2022.12.12 01:09:48 INFO  time: code lens generation in 1.38s[0m
+Dec 12, 2022 1:11:51 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleNotification
+WARNING: Notification threw an exception: {
+  "jsonrpc": "2.0",
+  "method": "textDocument/didOpen",
+  "params": {
+    "textDocument": {
+      "uri": "file:///Users/shashankjain/Desktop/Practice/java/3-if_loop/First_if.java",
+      "languageId": "java",
+      "version": 1,
+      "text": "import java.lang.*;\n\nclass First_if {\n    public static void main(String[] args) {\n        int a \u003d 50;\n\n        if (a\u003e70) {\n            System.out.println(\"high\");\n\n        }\n\n        else if (a\u003e\u003d50) {\n            System.out.println(\"mid\");\n        }\n\n\n        else if (a\u003e30) {\n            System.out.println(\"low\");\n        }\n\n\n        else {\n            System.out.println(\"fail\");\n        }\n    }\n}\n"
+    }
+  }
+}
+java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:67)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.notify(GenericEndpoint.java:152)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleNotification(RemoteEndpoint.java:220)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:187)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:194)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:94)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:113)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.lang.reflect.InvocationTargetException
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint.lambda$null$0(GenericEndpoint.java:65)
+	... 11 more
+Caused by: java.nio.file.NoSuchFileException: /Users/shashankjain/Desktop/Practice/java/3-if_loop/First_if.java
+	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106)
+	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:219)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:380)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:432)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3288)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:45)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:24)
+	at scala.meta.internal.metals.MetalsLanguageServer.didOpen(MetalsLanguageServer.scala:1085)
+	... 16 more
+
+2022.12.12 01:11:51 WARN  no build target for: /Users/shashankjain/Desktop/Practice/java/3-if_loop/A_if.java[0m
+2022.12.12 01:11:51 WARN  no build target for: /Users/shashankjain/Desktop/Practice/java/3-if_loop/A_if.java[0m
+2022.12.12 01:12:13 WARN  no build target for: /Users/shashankjain/Desktop/Practice/java/3-if_loop/Second_Learn_switch.java[0m
+2022.12.12 01:12:23 WARN  no build target for: /Users/shashankjain/Desktop/Practice/java/3-if_loop/B_Learn_switch.java[0m
+2022.12.12 01:12:23 WARN  no build target for: /Users/shashankjain/Desktop/Practice/java/3-if_loop/B_Learn_switch.java[0m
+2022.12.12 01:12:26 INFO  time: code lens generation in 2.36s[0m
+2022.12.12 01:12:27 WARN  no build target for: /Users/shashankjain/Desktop/Practice/java/3-if_loop/Third_For_Loop.java[0m
+2022.12.12 01:12:38 WARN  no build target for: /Users/shashankjain/Desktop/Practice/java/3-if_loop/C_For_Loop.java[0m
+2022.12.12 01:12:38 WARN  no build target for: /Users/shashankjain/Desktop/Practice/java/3-if_loop/C_For_Loop.java[0m
+2022.12.12 01:12:40 WARN  no build target for: /Users/shashankjain/Desktop/Practice/java/3-if_loop/Fourth_While_Loop.java[0m
+2022.12.12 01:12:40 INFO  time: code lens generation in 2.23s[0m
+2022.12.12 01:12:48 WARN  no build target for: /Users/shashankjain/Desktop/Practice/java/3-if_loop/D_While_Loop.java[0m
+2022.12.12 01:12:48 WARN  no build target for: /Users/shashankjain/Desktop/Practice/java/3-if_loop/D_While_Loop.java[0m
+2022.12.12 01:12:50 INFO  time: code lens generation in 2.18s[0m
+2022.12.12 01:13:00 WARN  no build target for: /Users/shashankjain/Desktop/Practice/java/3-if_loop/A_if.java[0m
+2022.12.12 01:13:13 WARN  no build target for: /Users/shashankjain/Desktop/Practice/java/3-if_loop/C_For_Loop.java[0m
+2022.12.12 01:13:13 WARN  no build target for: /Users/shashankjain/Desktop/Practice/java/3-if_loop/B_Learn_switch.java[0m
+2022.12.12 01:13:14 WARN  no build target for: /Users/shashankjain/Desktop/Practice/java/3-if_loop/D_While_Loop.java[0m
+2022.12.12 01:13:16 WARN  no build target for: /Users/shashankjain/Desktop/Practice/java/3-if_loop/C_For_Loop.java[0m
+2022.12.12 01:13:17 WARN  no build target for: /Users/shashankjain/Desktop/Practice/java/3-if_loop/B_Learn_switch.java[0m
+2022.12.12 01:13:17 WARN  no build target for: /Users/shashankjain/Desktop/Practice/java/3-if_loop/D_While_Loop.java[0m
+2022.12.12 01:13:59 INFO  shutting down Metals[0m

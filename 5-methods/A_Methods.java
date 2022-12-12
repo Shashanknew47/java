@@ -1,6 +1,6 @@
 import java.lang.*;
 
-class Methods {
+class A_Methods {
 
     // This method is static bez this is called by main method which is also static. A static method is called by static method.
     // Method should give it's return type also in the beginning.
@@ -43,7 +43,7 @@ class Methods {
         // if method is not static then first you will have make a object and then call that
         // method on that object.
 
-        Methods mp = new Methods();
+        A_Methods mp = new A_Methods();
         int minimum = mp.min(i,j);
         System.out.println(minimum);
 
@@ -59,4 +59,3 @@ class Methods {
     }
 
 }
-

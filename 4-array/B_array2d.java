@@ -1,4 +1,4 @@
-public class array2d {
+public class B_array2d {
 
     public static void main(String[] args) {
 
@@ -8,26 +8,22 @@ public class array2d {
         int C[][];      // []C[] or [][]C is also acceptable
         C = new int[3][2];
 
-        int[]E, F[];   // here we have 1 one dimentional arrray E and F is two dimentional array
+        int[]E, F[];   // here we have 1 one dimensional array E and F is two dimensional array
 
         E = new int[3];
         // F = new int[2][4];
 
-        int [] G,H,I,J ;  //These all are single dimentional array
+        int [] G,H,I,J ;  //These all are single dimensional array
 
         for (int i = 0; i < B.length; i++) {
 
-
              for (int k = 0; k < B[0].length; k++) {
-
                 System.out.println(B[i][k]);
-
              }
-
         }
 
 
-        System.out.println("===== two dimention array in for each loop======");
+        System.out.println("===== two dimension array in for each loop======");
 
         for (int x[]:B) {
             for (int y:x) {
@@ -38,6 +34,6 @@ public class array2d {
 
     }
 
-    
+
 
 }
