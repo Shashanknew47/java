@@ -1,6 +1,6 @@
 
 class Rectangle {
-    
+
     public double length;
     private double breadth;
 
@@ -11,7 +11,6 @@ class Rectangle {
     public void setBreadth(double b) {
         if (breadth >=0)
             breadth = b;
-
         else
             breadth = 0;
     }
@@ -27,7 +26,8 @@ class Rectangle {
 }
 
 
-public class Public_private {
+
+public class B_Public_private {
 
     public static void main(String[] args) {
         Rectangle r = new Rectangle();

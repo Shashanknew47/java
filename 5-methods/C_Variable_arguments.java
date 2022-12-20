@@ -14,7 +14,10 @@ public class C_Variable_arguments {
     public static void main(String[] args) {
 
         show('A');
+
+        System.out.println("-------**----------");
         show('B',20,30);
+        System.out.println("-------**----------");
 
         System.out.println("Here we can pass a array also which will be treaded just like * arguments");
 

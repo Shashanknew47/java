@@ -5,11 +5,11 @@ class Circle
 
     public double area()
     {
-        return Math.PI*radius*radius;
+        return Math.PI * radius * radius;
     }
     public double perimeter()
     {
-        return 2*Math.PI*radius;
+        return 2 * Math.PI * radius;
     }
     public double circumference()
     {
@@ -20,8 +20,7 @@ class Circle
 }
 
 
-
-public class Main_circle {
+public class A_Main_circle {
     public static void main(String[] args) {
         Circle c1=new Circle();
         c1.radius=7;
@@ -29,6 +28,5 @@ public class Main_circle {
         System.out.println("Perimeter:"+c1.perimeter());
         System.out.println("Circumference:"+c1.circumference());
        }
-
 
 }
